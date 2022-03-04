@@ -295,7 +295,7 @@
 .person_name_tarter {
   /* Use correct values of top/right/bottom/left properties to position the element */
   top: 79px;
-  left: 159px
+  left: 159px;
 }
 
 .person__image {
